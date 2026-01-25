@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimescaleWebApi", "TimescaleWebApi\TimescaleWebApi.csproj", "{CD8EE4E2-F2AC-4947-8E21-41FDD85CC486}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{754FC069-D67B-A9D7-50A1-8D1CA196D8F1}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD8EE4E2-F2AC-4947-8E21-41FDD85CC486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8EE4E2-F2AC-4947-8E21-41FDD85CC486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8EE4E2-F2AC-4947-8E21-41FDD85CC486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8EE4E2-F2AC-4947-8E21-41FDD85CC486}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CD5E9A4-B484-49CB-AC31-A48C95CA4D6D}
+	EndGlobalSection
+EndGlobal
