@@ -10,6 +10,7 @@ namespace TimescaleWebApi.Controllers;
 [Route("api/files")]
 public class FilesController : ControllerBase
 {
+    //ntcnjdsq rjvvtynfhbq
     private readonly AppDbContext _db;
     private readonly ICsvImportService _importService;
 
